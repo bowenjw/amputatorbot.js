@@ -1,7 +1,7 @@
 {
-  "name": "amputatorbot.js",
+  "name": "@bowenjw/amputatorbot.js",
   "version": "0.2.2",
-  "description": "",
+  "description": "library to easyly use AmputatorBot",
   "main": "dist/index.js",
   "type": "module",
   "types": "dist/index.d.ts",
