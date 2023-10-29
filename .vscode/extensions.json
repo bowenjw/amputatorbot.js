@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"github.vscode-github-actions",
+		"github.vscode-pull-request-github",
+		"davidanson.vscode-markdownlint",
+		"christian-kohler.path-intellisense",
+		"ms-vsliveshare.vsliveshare",
+		"visualstudioexptteam.vscodeintellicode",
+		"visualstudioexptteam.intellicode-api-usage-examples",
+		"christian-kohler.npm-intellisense",
+	]
+}
