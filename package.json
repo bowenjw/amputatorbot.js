@@ -13,7 +13,10 @@
     "build": "npx tsc",
     "lint": "npx eslint . --ext .ts"
   },
-  "repository": "git+https://github.com/bowenjw/amputatorbot.js.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bowenjw/amputatorbot.js.git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
