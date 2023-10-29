@@ -13,13 +13,7 @@
     "build": "npx tsc",
     "lint": "npx eslint . --ext .ts"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bowenjw/amputatorbot.js.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+  "repository": "git+https://github.com/bowenjw/amputatorbot.js.git",
   "author": {
     "name": "John William Bowen",
     "url": "https://github.com/bowenjw"
