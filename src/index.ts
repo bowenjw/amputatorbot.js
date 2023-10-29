@@ -2,10 +2,9 @@ import { get } from 'https';
 import { Routes } from './Routes.js';
 import { AmputatorResponse, AmputatorResponseError } from './interfaces.js';
 
-/**
- * Regex fro Https URLs
- */
-export const hyperlink = /https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&\/=]*)/gim
+export { Routes } from './Routes.js';
+export { AmputatorResponse, AmputatorResponseError, AmputatorSubResponse, AmputatorURL } from './interfaces.js';
+export { hyperlink } from './regex.js';
 
 /**
  * 
